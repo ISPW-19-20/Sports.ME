@@ -1,0 +1,4 @@
+FUNCTIONAL REQUIREMENTS:
+1- The system shall allow the user to find all the sports structures in a selectable range of kilometres from his current position.
+2- The system shall provide an option for the user to see if a sport center is busy in real-time.
+3- The system shall display pictures of all the sports structures that are currently in the system.
