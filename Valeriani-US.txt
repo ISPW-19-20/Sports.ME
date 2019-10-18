@@ -1,0 +1,7 @@
+USER STORIES
+1- As a mother, I want to get notified when my kids’ activities are about to end, so I
+can pick them up in time.
+2- As a child, I want to know if can rent any sports center for a party, so I can go there
+for my birthday.
+3- As a sports center owner, I want to plan public events and know how many people
+will take part, so I can organize them properly.
