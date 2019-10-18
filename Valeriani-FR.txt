@@ -1,0 +1,9 @@
+FUNCTIONAL REQUIREMENTS
+1- The system shall notify the users when a course is about to begin, or end.
+1.1- The system shall allow users to set how much time before a course begins, or ends,
+they want the system to notify them.
+1.2- The system shall send notifications in-app and via e-mail.
+2- The system shall highlight each sports center if their owners allow to rent
+them out for parties.
+3- The system shall provide an option for sports center owners to create public events and
+count how many people will take part.
