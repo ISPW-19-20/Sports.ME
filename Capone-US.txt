@@ -1,0 +1,2 @@
+USER STORIES
+1- As sportsman, i want to have favorite list, so I can receive the offers of the sports centers where I often go.2- As traveler, i want know a sports center available in the city where I am, so i can play sports even when i travel.3- As buisness woman, I want to know what sports I can do during the hours I am free, so I    can combine work with sport.
