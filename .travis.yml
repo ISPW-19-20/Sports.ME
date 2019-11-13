@@ -1,0 +1,16 @@
+language: java
+jdk:
+- openjdk8
+
+dist: trusty
+
+addons:
+  sonarcloud:
+    organization: "ispw-19-20"
+    token:
+      secure: "83eaf1c375c465b60d9750e661a1eda6288894b8"
+
+script:
+- ant build
+- sonar-scanner
+
