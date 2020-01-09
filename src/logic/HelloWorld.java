@@ -1,4 +1,4 @@
-package org.ispw;
+package logic;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
